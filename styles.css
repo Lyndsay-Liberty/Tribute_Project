@@ -15,7 +15,9 @@
         font-family: "Sofia", sans-serif;
         line-height: 1.6;
         padding: 20px;
-        background-color: #9b9a9a; 
+        background-color: #9b9a9a;
+        list-style-image: none;
+        
         }
         header {
         text-align: center;
@@ -37,14 +39,21 @@
         }
 /* Profile picture styling */
 profile {
+    font-family: "Sofia", sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #9b9a9a;
     display: block;
     margin: 0 auto 20px;
     width: 150px;
     height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
     border: 4px solid #f50707;
 
+.old-bedroom{
+    width: 10px
+    height: auto
+    border: 8px solid black;
+}
  #img-div container {
         width: 100px;
         height: auto;
@@ -57,9 +66,7 @@ li{
     color:black;
     border-style: solid black
 }
-p{
-    font-family: 'fantasy';
-}
-poem{
-    font-family: 'fantasy';  
+
+.poem{
+    font-family: 'Sofia';  
 }
