@@ -7,10 +7,15 @@
 
 body {
     font-family: "Sofia", sans-serif;
-    line-height: 1.6;
-    padding: 20px;
-    background-color: #9b9a9a;
-    list-style-image: none;
+    Margin: 0;
+    padding: 0;
+    background-color: #9b9a9a; /* Fallback color */
+    background-image: url(cardinal.jpg); /* Set the background image */
+    background-size: cover; /* Ensures the background covers the entire area */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+   line-height: 1.6;
+   list-style-image: none;
 }
 #poem{
     background-color: #eeebeb;
