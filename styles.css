@@ -7,7 +7,7 @@
 
 body {
     font-family: "Sofia", sans-serif;
-    Margin: 0;
+    Margin: 30px, auto;
     padding: 0;
     background-color: #9b9a9a; /* Fallback color */
     background-image: url(scotland.jpg); /* Set the background image */
