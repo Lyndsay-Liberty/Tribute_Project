@@ -16,6 +16,7 @@ body {
     background-repeat: no-repeat; /* Prevents the background from repeating */
    line-height: 1.6;
    list-style-image: none;
+     max-width: 800px;
 }
 .container {
     max-width: 800px;
