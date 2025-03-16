@@ -9,7 +9,7 @@ body {
     font-family: "Sofia", sans-serif;
     Margin: 30px, auto;
     padding: 20px;
-    background-color: #9b9a9a; /* Fallback color */
+    background-color: #eeebeb; /* Fallback color */
     background-image: url(scotland.jpg); /* Set the background image */
     background-size: cover; /* Ensures the background covers the entire area */
     background-position: center; /* Centers the background image */
