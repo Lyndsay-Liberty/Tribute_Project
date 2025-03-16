@@ -31,6 +31,7 @@ body {
     font-weight: 300;
     text-align: center;
     box-sizing: border-box;
+    font-size: medium;
 }
 
 header {
@@ -63,18 +64,4 @@ a:visited {
     #img-div container {
         width: 100px;
         height: auto;
-    }
-
-    #other-works {
-        color: black;
-        border-style: solid black;
-    }
-
-    li {
-        color: black;
-        border-style: solid black
-    }
-
-    .poem {
-        font-family: 'Sofia';
     }
