@@ -17,6 +17,14 @@ body {
    line-height: 1.6;
    list-style-image: none;
 }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(235, 238, 235, 0.9); /* Slightly transparent background for readability */
+    box-shadow: 0 0 10px rgba(190, 196, 176, 0.1);
+    border-radius: 8px;
+}
 #poem{
     background-color: #eeebeb;
     margin: 30px 0;
