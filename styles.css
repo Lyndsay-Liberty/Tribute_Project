@@ -9,8 +9,7 @@
     font-weight: 300;
     text-align: center;
     box-sizing: border-box
-    font-family: "Sofia", sans-serif;
-}
+    }
 #main {
     background-color: #eeebeb;
     margin: 30px 0;
@@ -52,7 +51,7 @@ a:visited {
 }
 #poem{
     font-family: "Sofia";
-    font-size: small;
+    font-size: medium;
 }
 
 .old-bedroom {
