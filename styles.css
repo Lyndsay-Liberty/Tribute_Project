@@ -25,6 +25,12 @@ body {
    font-family: "Sofia";
     font-size: medium;
 }
+.responsive-img {
+    max-width: 50%; /* Set max-width to 50% or any other desired percentage */
+    height: auto;     /* Maintains the aspect ratio */
+    display: block;   /* Removes any inline spacing (like beneath an inline image) */
+    margin: 0 auto;   /* Centers the image if it's a block-level element */
+}
 #main {
     background-color: #eeebeb;
     margin: 30px 0;
