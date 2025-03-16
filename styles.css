@@ -9,7 +9,8 @@ body {
     font-family: "Sofia", sans-serif;
     Margin: 30px, auto;
     padding: 20px;
-    background-color: #eeebeb; /* Fallback color */
+     text-align: center;
+  background-color: #eeebeb; /* Fallback color */
     background-image: url(scotland.jpg); /* Set the background image */
     background-size: cover; /* Ensures the background covers the entire area */
     background-position: center; /* Centers the background image */
@@ -17,8 +18,8 @@ body {
    line-height: 1.6;
    list-style-image: none;
      max-width: 800px;
-    text-align: center;
 }
+   
 .container {
     max-width: 800px;
     margin: 0 auto;
